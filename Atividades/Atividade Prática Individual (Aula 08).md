@@ -1,8 +1,8 @@
-# UrbanForge AI
+# UrbanForge
 
 ## Descrição da Startup
 
-A UrbanForge AI é uma plataforma baseada em dados e inteligência artificial voltada para a geração automática de cidades realistas para jogos digitais. O sistema utiliza geração procedural combinada com dados urbanos e IA para criar ambientes urbanos coerentes, otimizados e personalizáveis, reduzindo significativamente o tempo e o custo de desenvolvimento.
+A UrbanForge é uma plataforma baseada em dados e inteligência artificial voltada para a geração automática de cidades realistas para jogos digitais. O sistema utiliza geração procedural combinada com dados urbanos e IA para criar ambientes urbanos coerentes, otimizados e personalizáveis, reduzindo significativamente o tempo e o custo de desenvolvimento.
 
 ---
 
