@@ -35,6 +35,7 @@ Cada grupo deve incluir neste repositório:
   - `classificacao_redes.pdf` ou `classificacao_redes.png`
   - `README.md` com breve descrição do trabalho.
     
-Livro ![Livro de Rede de computadores do Tanenbaum]([https://archive.org/details/tanenbaum-rede-de-computadores-6a/mode/2up](https://ia801603.us.archive.org/BookReader/BookReaderImages.php?zip=/19/items/tanenbaum-rede-de-computadores-6a/Tanenbaum%20Rede%20de%20Computadores%206a_jp2.zip&file=Tanenbaum%20Rede%20de%20Computadores%206a_jp2/Tanenbaum%20Rede%20de%20Computadores%206a_0000.jp2&id=tanenbaum-rede-de-computadores-6a&scale=2&rotate=0))
+Livro
+![Rede de Computadores]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUg3Aq8-G6T7be9hTpDKS-TrcH80RYwlwAiTQFy-8aDc3j8fMN2do7yZp2Q5PLQM8SYCb-WWufG0bL0pbtcUXxG3X10o8sero-3mkLhQY7nhkRPIZoq_0L) "Rede de Computadores")
 
 ---
