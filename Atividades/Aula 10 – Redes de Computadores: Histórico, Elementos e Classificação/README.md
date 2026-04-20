@@ -36,6 +36,6 @@ Cada grupo deve incluir neste repositório:
   - `README.md` com breve descrição do trabalho.
     
 Livro
-![Rede de Computadores]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUg3Aq8-G6T7be9hTpDKS-TrcH80RYwlwAiTQFy-8aDc3j8fMN2do7yZp2Q5PLQM8SYCb-WWufG0bL0pbtcUXxG3X10o8sero-3mkLhQY7nhkRPIZoq_0L) "Rede de Computadores")
+![Rede de Computadores](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUg3Aq8-G6T7be9hTpDKS-TrcH80RYwlwAiTQFy-8aDc3j8fMN2do7yZp2Q5PLQM8SYCb-WWufG0bL0pbtcUXxG3X10o8sero-3mkLhQY7nhkRPIZoq_0L)
 
 ---
